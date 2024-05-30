@@ -28,3 +28,4 @@
 
 #### Transforming Data into Information , Knowledge, and Wisdom:
   > Process & Procedure 
+![Process Status Diagram](DIKYPyramid.PNG)
