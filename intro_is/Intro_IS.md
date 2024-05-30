@@ -1,6 +1,27 @@
-chapter 1: An introduction to information Systems 
+# An introduction to Information Systems 
 
-learning Objectives:
-- distinguish data , informationo , and knoledge in the digital age.
-- Identify fundamental components of information systems ()
+## Learning Objectives:
+#### After completing this chapter , we will be able to:
+- distinguish data , information , and knowledge in the digital age.
+- Identify fundamental components of Information Systems (IS).
+- Identify types of fundamental IS in organizations.
+- Describe the role of an organization's IT infrastructure.
+- Discuss why it is critical for business objectives and IS activities to be aligned in organizations.
+- Identify IS security threats as well as legal, social, and ethical issues associated with IS.
+#### This is an overview chapter on topics covered in the semester.
 
+## Data, Information , Knowledge , Wisdom
+- Data - Basic , discrete , objective facts about something such as who, what, when, where ...
+- Information - Collection of data organized and processed in such a way that they can add value; One of the most valuable organizational resources.
+- Knowledge - Awareness and understanding of a systematic set of information and the ways it can be made useful.
+- Wisdom - Knowledge to be applied to different situations. 
+- Process or Procedure: A set of logically related tasks performed to achieve a defined outcome.
+  > Turning data into information is a process / procedure.
+
+#### Types of data 
+|Data                     |Represented by
+|-------------------------|----------------------------------------|
+| Alphanumeric data       |Number , letters , and other characters 
+| Audio data              |Sounds , noises , or tones
+| Image data              |Graphic images and pictures
+| Video data              |Moving images or pictures
