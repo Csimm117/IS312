@@ -37,6 +37,7 @@ An **information system** (IS) is a systematic set of interrelated elements that
 - Store
 - Disseminate data and information.
 - Provides a feedback mechanism to monitor and control its operations to make sure it continues to meet organizational goals and objectives.
+  
 A **Computer-based informations system** (CBIS) is a set of hardware , software, databases, network , people , and procedures.
 - Configured to collect, manipulate , store , and process data information.
 - A.K.A. computer information systems (CIS)
