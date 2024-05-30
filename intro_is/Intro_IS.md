@@ -25,3 +25,6 @@
 | Audio data              |Sounds , noises , or tones
 | Image data              |Graphic images and pictures
 | Video data              |Moving images or pictures
+
+#### Transforming Data into Information , Knowledge, and Wisdom:
+  > Process & Procedure 
