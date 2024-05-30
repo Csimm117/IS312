@@ -41,4 +41,32 @@ An **information system** (IS) is a systematic set of interrelated elements that
 A **Computer-based informations system** (CBIS) is a set of hardware , software, databases, network , people , and procedures.
 - Configured to collect, manipulate , store , and process data information.
 - A.K.A. computer information systems (CIS)
+
+**An organization's technology infrastructure** includes all the hardware , software , databases, network , people , and procedures
+- That are configured to collect , manipulate , store , and process data into information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
