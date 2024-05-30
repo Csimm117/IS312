@@ -53,7 +53,9 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 
 ## Information systems in Organizations
 ### 3 types of IS
-
+- **Personal IS**: IS that improve the productivity of regular users.
+- **Group IS**: IS that improve communications and support collaboration among members of a workgroup.
+- **Enterprise IS**: IS that organizations use to define structued interactions among employees and/or customers , suppliers government agencies, etc.
 
 
 
