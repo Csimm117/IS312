@@ -45,7 +45,14 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 **An organization's technology infrastructure** includes all the hardware , software , databases, network , people , and procedures
 - That are configured to collect , manipulate , store , and process data into information.
 
+## what is an Information System ?
+- A **process of procedure** defines the steps to follow to achieve a specific and results
+  > Such as enter a customer order, pay a supplier invoice , or request a current inventory report.
+- Using an IS involves setting and follwoing many procedures, including those for:
+  > Analysis , design , implementation , maintenance , and security of the information system.
 
+## Information systems in Organizations
+### 3 types of IS
 
 
 
