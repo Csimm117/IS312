@@ -28,4 +28,13 @@
 
 #### Transforming Data into Information , Knowledge, and Wisdom:
   > Process & Procedure 
-![Process Status Diagram](DIKYPyramid.PNG)
+![Diagram](DIKYPyramid.PNG)
+
+## What is an Information System (IS)?
+An **information system** (IS) is a systematic set of interrelated elements that:
+- Collect (input)
+- Process
+- Store
+- Disseminate data and information.
+- Provides a feedback mechanism to monitor and control its operations to make sure it continues to meet organizational goals and objectives.
+  
