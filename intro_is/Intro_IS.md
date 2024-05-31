@@ -167,8 +167,18 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 
 ## SUMMARY
 1. The value of information is directly linked to how it helps decision makers achieve the organization's goals in the digital age.
+
 1. IS are composed of fundamental components that must be carefully assembled and integrated to work well together.
+
 1. Managers have an essential role to play in the successfull implementation and use of IS-that roles change depending on which type of IS is being implemented.
+
+1. An organization's infrastructure technology forms the foundation upon which information systems and applications are built. 
+
+1. Organizations employ a variety of IS to improve the way they conduct business and make fact-based decisions.
+
+1. IS must be applied thoughtfully and carefully so that society, organizations , and individuals can reap the enormous benefits.
+
+
 
 
 
