@@ -16,4 +16,25 @@
 - Create a trailhead playground
 - Explain th difference between no code (declarative) and programmatic developments 
 
-# Come back to edit this page 
+# Salesforce Platform Basics
+
+1. From the gear icon ( The gear icon to open Setup.), click Setup to launch the setup page. We use Setup a lot, so remember this step!
+1. Click the Object Manager tab.
+1. Click Contact.
+1. In the Details panel, click Fields & Relationships, and then click New.
+1. A data type indicates what kind of information your field holds. For this field, pick Checkbox and click Next.
+1. The Field Label is what you see on the Contact page. Enter: Prequalified? and click Next.
+1. Click Next again to accept the default field-level security.
+1. Check the checkbox to add the new field to all the Contact Page Layouts and then click Save 
+
+### You just customized your first object. Great job!
+
+### Lets double check are work
+- Let’s take a look at what we did. From the App Launcher ( App Launcher icon), find and select Dreamhouse. In the Dreamhouse app, click the Contacts tab. Use the arrow The list view arrow icon. to view All Contacts and click a contact name. Under the Details tab, you can see your new field. Now it’s easier for Michelle and the other brokers to log and retrieve this important piece of client information
+
+![diagram](Arthursong.PNG)
+
+
+# Your Turn ! 
+- Take your time, make sure to read carefully on what is being asked.
+![yourturn](handson.PNG) 
