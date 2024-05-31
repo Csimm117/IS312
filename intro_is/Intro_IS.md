@@ -86,6 +86,45 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 ### Data Warehouse 
 - A database that stores large amounts of historical data in a form that readily supports analysis and management decision making.
 
+## Network and Cloud computing 
+
+### Network 
+- Connect computers and other computing equipment in a room, building campus , city ,or globe to enable electronic communication.
+
+### Internet 
+- World's largest computer network.
+> Enable comm
+unication , collaboration , search functions , and information sharing between member of an organization using a web browser.
+>A network based on web tech 
+
+### Cloud computing 
+- A service provider organization owns and manages hardware, software , networking , and storage devices in order to provide shared resources to users via the internet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
