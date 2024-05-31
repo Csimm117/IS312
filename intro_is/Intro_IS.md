@@ -104,6 +104,24 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 - A service provider organization owns and manages hardware, software , networking , and storage devices in order to provide shared resources to users via the internet.
 
 ## Business Information Systems (BIS)
+- IS are used in all functional areas of business organizations: Business IS
+> Accounting and finance 
+> Customer service 
+> Human resources
+> Manufacturing 
+> Research & Development 
+> Sales & Marketing 
+
+
+## Electronic Commerce and Mobile Technology
+- **E-Commerce** involves the exchange of money for goods and services over electronic network. 
+
+- Mobile commerce (m-commerce) The use of mobile , wireless devices to place orders and conduct business. 
+- Used to support all forms of e-commerce 
+1. Business-to-Business(B2B)
+1. Business-to-Consumer(B2C)
+1. Consumer-to-Consumer(C2C)
+1. Governement-to-Consumer(G2C)
 
 
 
