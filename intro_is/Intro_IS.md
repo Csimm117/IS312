@@ -57,6 +57,35 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 - **Group IS**: IS that improve communications and support collaboration among members of a workgroup.
 - **Enterprise IS**: IS that organizations use to define structued interactions among employees and/or customers , suppliers government agencies, etc.
 
+## Information Systems in Organizations
+# place a picture
+
+## Hardware Devices 
+### Hardware:
+- Consists of computer equipment used to perform input, processing , storage, and output activities.
+- A **trend** in IT industry is to produce smaller, faster , and more mobile and powerful hardware.
+- Innovative new hardware devices:
+> Advanced keyboards
+> Laptops and display that connect wirelessly
+>Very-high resolution display devices
+
+## Software Applications
+
+### Software
+- Consists of computer programs that govern the operation of a computing device.
+### Two types of software
+- System Software - Operating systems: Oversee basic computer operations such as start-up, controls access to system resources , and manage memory and files.
+- Applications software : Allows to accomplish specific tasks, including editing text documents, creating graphs , and playing games. 
+### Business application software
+- Can be categorized by whether it is used by an individual, a small business , or a large multinational enterprise.
+
+## Database System
+### Database
+- An Organized collection of data and information, typically consisting of two or more related data files.
+- For example, a database contain data and information on customers, employees, inventory, sales , online purchases, etc.
+### Data Warehouse 
+- A database that stores large amounts of historical data in a form that readily supports analysis and management decision making.
+
 
 
 
