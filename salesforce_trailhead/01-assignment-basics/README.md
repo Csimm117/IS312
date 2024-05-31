@@ -36,5 +36,32 @@
 
 
 # Your Turn ! 
-- Take your time, make sure to read carefully on what is being asked.
-![yourturn](handson.PNG) 
+- Take your time, make sure to read carefully on what is being asked.![yourturn](handson.PNG) 
+
+
+## NEXT UNIT : Discover use cases for the platform
+
+- Read though the information above and take the quiz to move on.
+> use CTRL + F to find the information faster (Questions may differ read slow and double check your work)
+
+## Next UNIT : Understand the Salesforce Architecture
+- Read though the information above and take the quiz. 
+
+## Navigate Setup 
+- Read though the information above and take the quiz. 
+
+## Power up with AppExchange
+- Read though the information above and take the quiz. 
+
+
+# Submit your assignment in Canvas:
+
+1. When you complete a Salesforce Trailhead assignment, you should be able to see the badge(s) and completed activities you have completed of the assignment.
+
+1. Make a screenshot of each page showing your profile name, completed activities, and badges.
+
+1. Copy and paste the screenshots into a Microsoft Word document; Name the Microsoft Word document as Salesforce Trailhead Assignment followed by your full name, and save it.
+
+1. Follow the online submission instructions and submit the document in the Canvas as the evidence of you have completed the designated salesforce trailhead assignment.
+
+1. Credit points may be deducted due to missing any said screenshots, or not following the submission instructions.
