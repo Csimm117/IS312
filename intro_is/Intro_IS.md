@@ -147,6 +147,29 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 1. The activites of building IS to meet organizational needs
 1. IS Development project can range from small to very large.
 
+## IS Security in Businesses and Society
+- The widespread use of IS 
+> Opens users to a variety of threats from unethical people.
+- Computer-realted attacks can come from individuals , groups , companies and countries.
+
+## Ethical, Legal , and Social Issues of IS Use
+- The use of information about people
+1. Requires balancing the needs of those who want to use the information against the rights and desires of people whose information may be used. 
+
+- **Internet Censorship**
+1. The control or suppression of publishing or accessing of information on the internet.
+- **Digital Divide** 
+1. A term used to describe the gulf between those who do and those who don't have access to modern IS.
+- **Net Neutrality**
+1. The principle that internet service providers (ISPs) should be required to treat all internet traffic the same.
+- **"Big Fat Fake News "**
+1. The widespread of vast volme of false or misleading information over the internet.
+
+## SUMMARY
+1. The value of information is directly linked to how it helps decision makers achieve the organization's goals in the digital age.
+1. IS are composed of fundamental components that must be carefully assembled and integrated to work well together.
+1. Managers have an essential role to play in the successfull implementation and use of IS-that roles change depending on which type of IS is being implemented.
+
 
 
 
