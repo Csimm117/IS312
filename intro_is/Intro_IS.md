@@ -92,15 +92,18 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 - Connect computers and other computing equipment in a room, building campus , city ,or globe to enable electronic communication.
 
 ### Internet 
+- **Internet of Things (IOT)** - A network of pysical objects embedded with sensors , processors,software, and network connectivity capability to enable them to exchange data with the manufacturer of the device, device operators , and other connected devices.
+> Encompasses not only machine-to0machine but also people-to-people and people-to-machine connections.
+
 - World's largest computer network.
-> Enable comm
-unication , collaboration , search functions , and information sharing between member of an organization using a web browser.
->A network based on web tech 
+> Enable communication , collaboration , search functions , and information sharing between member of an organization using a web browser.
+
+>A network based on web technologies that allows selected outsiders to access authorized resources of a company's intranet.
 
 ### Cloud computing 
 - A service provider organization owns and manages hardware, software , networking , and storage devices in order to provide shared resources to users via the internet.
 
-
+## Business Information Systems (BIS)
 
 
 
