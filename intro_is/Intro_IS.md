@@ -123,6 +123,36 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 1. Consumer-to-Consumer(C2C)
 1. Governement-to-Consumer(G2C)
 
+- **E-business:** use of information systems and the internet to perform business-related tasks and functions
+
+## Organizational Information Systems 
+- Management information system (MIS):
+1. Organized collection of people , procedures , software databases, and devices.
+1. Provides information to managers and decision makers.
+1. Focuses  on operational efficiency
+1. Provides standards reports generated with data and information form the transaction processing system (TPS) or enterprise resource planning (ERP) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
