@@ -130,7 +130,24 @@ A **Computer-based informations system** (CBIS) is a set of hardware , software,
 1. Organized collection of people , procedures , software databases, and devices.
 1. Provides information to managers and decision makers.
 1. Focuses  on operational efficiency
-1. Provides standards reports generated with data and information form the transaction processing system (TPS) or enterprise resource planning (ERP) 
+1. Provides standards reports generated with data and information form the transaction processing system (TPS) or enterprise resource planning (ERP)
+
+## Enterprise systems 
+- Enterprise resource planning (ERP):
+1. A set of integrated enterprise software programs.
+1. Manages business operations for an entire organization.
+- Most ERP systems provide integrated software to support manufacturing and finance:
+1. Also provide support for business analytics and e-business.
+
+## Is Acquisition and development 
+- Information systems acquisition
+1. Process to obtian the IS resources needed to provide the organization with computing services to meet organizational needs.
+
+- IS development
+1. The activites of building IS to meet organizational needs
+1. IS Development project can range from small to very large.
+
+
 
 
 
