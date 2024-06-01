@@ -20,8 +20,8 @@
 > Web design skills.
 > Knowledge of data center operations.
 
-1. Roles, Functions, and careers in IS
-- In addition to technical skills, IS professionals needs:
+### Roles, Functions, and careers in IS
+1. In addition to technical skills, IS professionals needs:
 > Skills in writen and verbal communication
 > Understanding of organizations and the way they operate
 > The ability to work with people and in group
