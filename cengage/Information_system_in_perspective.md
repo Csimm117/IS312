@@ -44,4 +44,4 @@ Turning data into information is a **process**, or a set of logically related ta
 
  In some cases, people organize or process data mentally or manually. In other cases, they use a computer. This transformation process is shown in **Figure 1.1**.
 
- ![figure1.1.png](figure)
+ ![figure.png][test]
