@@ -33,5 +33,15 @@ of business, you need to understand that information is one of organizations's m
  |Audio data                 |Sounds, noises,or tones
  |Image data                 |Graphic images and pictures 
  |Video dataw                |Moving images or pictures
- |                           |
+ 
+Another way to appreciate the difference between data and information is to think of data as the individual items in a grocery list—crackers, bread, soup, cereal, coffee, dishwashing soap, and so on. The grocery list becomes much more valuable if the items in the list are arranged in order by the aisle in which they are found in the store—bread and cereal in aisle 1, crackers and soup in aisle 2, and so on. Data and information work the same way. Rules and relationships can be set up to organize data so it becomes useful, valuable information.
 
+The value of the information created depends on the relationships defined among existing data. For instance, you could add specific identifiers to the items in the list to ensure that the shopper brings home the correct item—whole wheat bread and Kashi cereal in aisle 1, saltine crackers and chicken noodle soup in aisle 2, and so on. By doing so, you create a more useful grocery list.
+
+Turning data into information is a **process**, or a set of logically related tasks performed to achieve a defined outcome. The process of defining relationships among data to create useful information requires **knowledge**, which is the awareness and understanding of a set of information and the ways in which that information can be made useful to support a specific task or reach a decision.
+
+ In other words, information is essentially data made more useful through the application of knowledge. For instance, there are many brands and varieties of most items on a typical grocery list. To shop effectively, the grocery shopper needs to have an understanding of the needs and desires of those being shopped for so that he knows to purchase one can of Campbell’s (not the store brand!) low-sodium chicken noodle soup for the family member who is diabetic along with two cans of Campbell’s regular chicken noodle soup for everyone else.
+
+ In some cases, people organize or process data mentally or manually. In other cases, they use a computer. This transformation process is shown in **Figure 1.1**.
+
+ ![figure1.1](figure1)
