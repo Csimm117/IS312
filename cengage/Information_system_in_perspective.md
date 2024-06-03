@@ -23,7 +23,9 @@ Information is a certral concept of this book. The term is used in the title of 
 of business, you need to understand that information is one of organizations's most valuble resourses. Information is no  the same thing as data , and knowledge is different from both data and information. These concepts will now be explained.
 
 ### Data, Information , and Knowledge 
-**Data** consists of raw facts, such as an employee number, total hours worked in a week, an inventory part number, or the number of units peoduced on a production line. As shown in Table 1.1 several types of data can represent these facts. **Information** is a collection of data organized and processed so that it has additional value beyond the value of the individual facts. For example, a sales data summarized so it shows the total sales for the month. providing information to customers can also help companies increase revenues and profits.For example , social shopping Wed site Kaboodle brings shoppers and sellers together electronically so they can share information and make recommendations while shopping online. The free exchange of information stimulates sales and helps ensure shoppers find better values.
+**Data** consists of raw facts, such as an employee number, total hours worked in a week, an inventory part number, or the number of units peoduced on a production line. As shown in **Table 1.1** several types of data can represent these facts. 
+
+**Information** is a collection of data organized and processed so that it has additional value beyond the value of the individual facts. For example, a sales data summarized so it shows the total sales for the month. providing information to customers can also help companies increase revenues and profits.For example , social shopping Wed site Kaboodle brings shoppers and sellers together electronically so they can share information and make recommendations while shopping online. The free exchange of information stimulates sales and helps ensure shoppers find better values.
  ### Table 1.1 types of data 
  |Data                       |Represented by 
  |---------------------------|--------------------------------------|
