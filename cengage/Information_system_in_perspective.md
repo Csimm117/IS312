@@ -45,3 +45,11 @@ Turning data into information is a **process**, or a set of logically related ta
  In some cases, people organize or process data mentally or manually. In other cases, they use a computer. This transformation process is shown in **Figure 1.1**.
 
  ![test](figure.png)
+
+ ### The Value of Information
+ The value of information is directly linked to how it helps decision makers achieve their organization’s goals. Valuable information can help people perform tasks more efficiently and effectively. Many businesses assume that reports are based on correct, quality information, but, unfortunately, that is not always true. For example, Experian (a global information services firm that provides credit services, marketing services, decision analytics, and consumer services) estimates that on average, 22 percent of an organization’s customer contact data is wrong.Footnote Companies can easily waste over $100 per inaccurate customer contact data record on things like direct-mail marketing sent to wrong addresses and the inability to properly track leads. For an organization with 100,000 customers and a 22 percent error rate, that projects to a loss of $2.2 million.Footnote
+
+### Characteristics of quality Information
+Fundamental to the quality of a decision is the quality of the information used to reach that decision. Any organization that stresses the use of advanced information systems and sophisticated data analysis before information quality is doomed to make many wrong decisions. Table 1.2 lists the characteristics that determine the quality of information. The importance of each of these characteristics varies depending on the situation and the kind of decision you are trying to make. For example, with market intelligence data, some inaccuracy and incompleteness is acceptable, but timeliness is essential. Market intelligence data may alert you that a competitor is about to make a major price cut. The exact details and timing of the price cut may not be as important as being warned far enough in advance to plan how to react. On the other hand, accuracy and completeness are critical for data used in accounting for the management of company assets, such as cash, inventory, and equipment.
+
+![table](table1.2.png)
