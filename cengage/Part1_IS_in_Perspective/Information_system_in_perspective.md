@@ -1,4 +1,4 @@
-# Information system in perspective
+mv # Information system in perspective
 
 
 ### Unit 1 : An introduction to information systems 
@@ -95,3 +95,42 @@ Managers have an essential role to play in the successful implementation and use
 ![table1.3](table1.3.png)
 
 ![ct-01](ct_01.png)
+
+### Software and Mobile Applications
+
+**Software** consists of the computer programs that govern the operation of a particular computing device, be it desktop computer, laptop, tablet, smartphone, or some other device. There are two types of software: system software and application software. System software—such as Google’s Android or Apple’s iOS—oversees basic computer operations such as start-up, controls access to system resources, and manages memory and files. Application software, such as Microsoft Office, allows you to accomplish specific tasks, including editing text documents, creating graphs, and playing games. Both system software and application software are needed for all types of computers, from small handheld devices to large supercomputers. In choosing application software, you must choose software that will work with the operating system installed on your computing device.
+
+As of June 2015, 1.6 million applications were available for devices that run under the Android operating system and roughly the same (1.5 million) available for download from Apple’s App Store.
+>The number of apps for each operating system is increasing by roughly 25,000 to 50,000 per month.
+
+Business application software can be categorized by whether it is intended to be used by an individual, a small business, or a large multinational enterprise. For example, Quicken has long been a favorite accounting application for individuals who need money management and budgeting tools to help them watch their spending, increase their savings, and avoid late fees with alerts on upcoming payment due dates. QuickBooks, an accounting application popular with small businesses, enables users to create invoices, track sales and expenses, process credit card payments, run payroll, and generate financial, tax, and sales reports. SAP ERP Financials is an accounting application used by many large, multinational organizations to manage the complexities of global accounting and reporting requirements. SAP’s software records all financial transactions in a comprehensive general ledger; supports sophisticated reporting requirements; provides management accounting tools for orders, projects, cost centers, and profit centers; enables the speedy and accurate closing of the firm’s books; and helps manage risk and compliance across accounting and finance.
+
+An important trend in the design of business application software is the attempt to imitate the look, feel, and intuitive ease of use associated with consumer apps that can be downloaded from the Google Play Store and the Apple App Store. Indeed, usability and user-interface design are key factors in delivering apps that business users will actually use. In some organizations, employees can log on to enterprise app stores to acquire the latest company software and software upgrades. This trend of consumer technology practices influencing the way business software is designed and delivered is called the **consumerization of IT.**
+
+CDW is a leading provider of integrated information solutions to corporate customers in small, medium, and large private and public organizations in the United States and Canada. The firm has established its App Marketplace Web site (http://appmarketplace.cdw.com) where customers’ employees can identify leading enterprise mobile app solutions. The Web site is easy to navigate with apps organized by industry and app functions. The apps there have already been vetted by CDW to perform effectively and reliably. In addition, for those needing custom mobile apps, the Web site identifies mobile app partners who have a proven track record of building, deploying, and updating top enterprise applications.
+
+### Database Systems and Big Data
+
+A **database** is an organized collection of facts and information, typically consisting of two or more related data files. An organization’s database can contain facts and information on customers, employees, inventory, sales, online purchases, and much more. A database is essential to the operation of a computer-based information system.
+
+As anyone who works in marketing or sales knows, one of the biggest challenges that any business faces is the ability to generate new leads in an effort to locate customers. As businesses have looked for ways to meet this challenge, numerous vendors have seized the opportunity by offering access to databases of potential clients in various industries, as shown in **Table 1.4.**
+
+![table1.4](table1.4.png)
+
+A **data warehouse** is a database that stores large amounts of historical data in a form that readily supports analysis and management decision making. In a process called the **extract-transform-load (ETL)** process, raw data is extracted from various sources, transformed into a format that will support the analysis to be performed, and then loaded into the data warehouse. Data warehouses frequently hold a huge amount of data; they often contain five years or more of data. Many organizations employ data warehouses to hold the data they need to make key business decisions:
+
+- Walmart operates separate data warehouses for Walmart and Sam’s Club. Through these data warehouses, the company allows suppliers access to almost any data they could possibly need to determine which of their products are selling, how fast, and even whether they should redesign their packaging to fit more product on store shelves.
+
+- Harrah’s (part of the Caesar’s Entertainment casino empire) uses a data warehouse to determine how much money particular gamblers are willing to lose in a day before they will decide not to come back the next day.
+- Continental Airlines uses a data warehouse to help it determine who its most valuable customers are and to find ways to keep them satisfied—for example, by proactively making alternative travel arrangements for them if their flights get delayed.
+- Macy’s uses a terabyte-sized data warehouse to target improvements in four key areas of its e-commerce business: measuring the profitability and effectiveness of banner advertising, analyzing customer interactions and paths through its Web site, improving fulfillment capabilities, and correlating online sales with store sales to cross-sell and upsell customers across its distribution channels.
+
+The digital universe (the collection of all data that exists) is doubling in size every two years as shown in **Figure 1.4.**Footnote Organizations are challenged by this rapid growth and at the same time scrambling to take advantage of the opportunities provided by this data. **Big data** is a term used to describe data collections that are so enormous (think petabytes or larger) and complex (from sensor data to social media data) that traditional data management software, hardware, and analysis processes are incapable of dealing with them. To gain a perspective on the quantity of data some organizations are struggling to manage, consider that the amount of data traveling over mobile networks alone is expected to exceed 10 exabytes per month by 2016.Footnote **Table 1.5 defines the units of measure for data.
+
+
+![figure1.4](figure1.4.png)
+![table1.5](table1.5.png)
+
+To avoid being paralyzed by information overload, organizations and indeed society itself must find a way to deal with this oncoming tsunami of data. This challenge has several aspects, including how to choose which subset of data to keep, where and how to store the data, how to find the nuggets of useful data that are relevant to the decision making at hand, and how to derive real value from the relevant data.
+
+Ideally, the many challenges associated with big data will be conquered, and more data will lead to more accurate, insightful analyses and better decision making, which in turn, will result in deliberate actions and improved business results. For that to happen, society will need to address the many issues associated with big data, including concerns over invasions of privacy and the potential for overly intrusive monitoring of individuals by governments and organizations.
