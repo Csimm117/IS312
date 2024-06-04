@@ -70,3 +70,28 @@ Good systems can enable people to produce extraordinary results. They can also b
 A **procedure** defines the steps to follow to achieve a specific end result, such as enter a customer order, pay a supplier invoice, or request a current inventory report. Good procedures describe how to achieve the desired end result, who does what and when, and what to do in the event something goes wrong. When people are well trained and follow effective procedures, they can get work done faster, cut costs, make better use of resources, and more easily adapt to change. When procedures are well documented, they can greatly reduce training costs and shorten the learning curve.
 
 Using a CBIS involves setting and following many procedures, including those for the operation, maintenance, and security of the system. For example, some procedures describe how to gain access to the system through the use of some log-on procedure and a password. Others describe who can access facts in the database or what to do if a disaster, such as a fire, earthquake, or hurricane, renders the CBIS unusable. Good procedures can help companies take advantage of new opportunities and avoid lengthy business disruptions in the event of natural disasters. Poorly developed and inadequately implemented procedures, however, can cause people to waste their time on useless rules or result in inadequate responses to disasters.
+
+
+## Information Systems in Organizations
+Most organizations have a number of different information systems. When considering the role of business managers in working with IS, it is useful to divide information systems into three types: personal IS, group IS, and enterprise IS.
+
+**Personal IS** includes information systems that improve the productivity of individual users in performing stand-alone tasks. Examples include personal productivity software, such as word-processing, presentation, and spreadsheet software.
+
+In today’s fast-moving, global work environment, success depends on our ability to communicate and collaborate with others, including colleagues, clients, and customers. Group IS includes information systems that improve communications and support collaboration among members of a workgroup. Examples include Web conferencing software, wikis, and electronic corporate directories.
+
+**Enterprise IS** includes information systems that organizations use to define structured interactions among their own employees and/or with external customers, suppliers, government agencies, and other business partners. Successful implementation of these systems often requires the radical redesign of fundamental work processes and the automation of new processes. Target processes may include purely internal activities within the organization (such as payroll) or those that support activities with external customers and suppliers (order processing and purchasing). Three examples of enterprise IT are transaction processing, enterprise, and interorganizational systems.
+
+For each type of IS, certain key **organizational complements** must be in place to ensure successful implementation and use of the system. These complements include:
+
+- **Well-trained workers.** Employees must be well trained and understand the need for the new system, what their role is in using or operating the system, and how to get the results they need from the system.
+
+- **System support.** Trained and experienced users who can show others how to gain value from the system and overcome start-up problems.
+- **Better teamwork.** Employees must understand and be motivated to work together to achieve the anticipated benefits of the system.
+- **Redesigned processes.** New systems often require radical redesign of existing work processes as well as the automation of new processes.
+- **New decision rights.** Employees must understand and accept their new roles and responsibilities including who is responsible for making what decisions. Roles and responsibilities often change with introduction of a new system.
+
+Managers have an essential role to play in the successful implementation and use of information systems. That role changes depending on which type of IS system is being implemented, as shown in **Table 1.3**, which also highlights other characteristics and provides examples of each type.
+
+![table1.3](table1.3.png)
+
+![ct-01](ct_01.png)
