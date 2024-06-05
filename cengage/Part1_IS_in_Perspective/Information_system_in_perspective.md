@@ -190,26 +190,47 @@ You are a member of a highly successful advertising agency whose CEO suffers fro
 
 - Human resources. Information systems help human resource staff screen job applicants, administer performance tests to employees, monitor employee productivity, and generate required government reports.
 
-- Manufacturing. Information systems are used to process customer orders, develop production schedules, control inventory levels, and monitor product quality.
+- **Manufacturing**. Information systems are used to process customer orders, develop production schedules, control inventory levels, and monitor product quality.
 
-- Research and development. Information systems help R&D staff design products, gather input from customers that leads to new ideas and improvements, and enable the sharing of information with a worldwide community of researchers.
+- **Research and development**. Information systems help R&D staff design products, gather input from customers that leads to new ideas and improvements, and enable the sharing of information with a worldwide community of researchers.
 
-- Sales and marketing. Information systems help sales and marketing personnel develop new goods and services (product analysis), determine the best advertising and sales approaches (promotion analysis), and set optimal product prices to get the highest total revenues (price analysis).
+- **Sales and marketing**. Information systems help sales and marketing personnel develop new goods and services (product analysis), determine the best advertising and sales approaches (promotion analysis), and set optimal product prices to get the highest total revenues (price analysis).
 
 >Information systems are also used in nearly every industry, as the following examples show:
 
-- Agriculture. Farmers attach a yield monitor and a global positioning unit to their combines to determine how much grain should be harvested in each field. This data is entered in a system that produces a color-coded map that predicts the expected yield. From this, farmers can determine where they should add soil additives or fertilizer, for example, to increase the yield.
+- **Agriculture**. Farmers attach a yield monitor and a global positioning unit to their combines to determine how much grain should be harvested in each field. This data is entered in a system that produces a color-coded map that predicts the expected yield. From this, farmers can determine where they should add soil additives or fertilizer, for example, to increase the yield.
 
-- Finance. Banks use information systems to help make sound decisions regarding loans, invest wisely, and provide online services, such as bill payment and account transfers for account holders.
+- **Finance**. Banks use information systems to help make sound decisions regarding loans, invest wisely, and provide online services, such as bill payment and account transfers for account holders.
 
-- Health care. Healthcare organizations use information systems to diagnose illnesses, plan medical treatment, track patient records, and bill patients See Figure 1.7. Health insurance companies and health maintenance organizations (HMOs) use Web technology to access patients’ insurance eligibility information, pay medical claims, and analyze data to manage costs.
+- **Health care**. Healthcare organizations use information systems to diagnose illnesses, plan medical treatment, track patient records, and bill patients See Figure 1.7. Health insurance companies and health maintenance organizations (HMOs) use Web technology to access patients’ insurance eligibility information, pay medical claims, and analyze data to manage costs.
 
 ![figure7](figure1.7.png)
 
-- Mining. Companies use global positioning systems to identify and evaluate promising areas for mineral exploration, model mine construction, and display geochemical and hydrological data. Mining companies also use information systems to gather the necessary data when applying for mining permits, to assess the environmental impacts of a proposed mine, and to design mine closure and reclamation plans.
+- **Mining**. Companies use global positioning systems to identify and evaluate promising areas for mineral exploration, model mine construction, and display geochemical and hydrological data. Mining companies also use information systems to gather the necessary data when applying for mining permits, to assess the environmental impacts of a proposed mine, and to design mine closure and reclamation plans.
 
-- Professional services. Accounting, tax preparation, and investment firms use information systems to improve the speed and quality of the services they provide to customers.
+- **Professional services**. Accounting, tax preparation, and investment firms use information systems to improve the speed and quality of the services they provide to customers.
 
-- Retail. Companies use information systems to help market products and services, manage inventory levels, control the supply chain, and forecast demand, as well as take orders directly from customers over the Web.
+- **Retail**. Companies use information systems to help market products and services, manage inventory levels, control the supply chain, and forecast demand, as well as take orders directly from customers over the Web.
 
 >This part will discuss “Electronic and Mobile Commerce,” “Enterprise Systems,” “Business Intelligence and Analytics,” and “Knowledge Management and Specialized Information Systems.”
+
+### Electronic and Mobile Commerce 
+
+**E-commerce** involves the exchange of money for goods and services over electronic networks, and it encompasses many of an organization’s outward-facing processes—such as sales, marketing, order taking, delivery, procurement of goods and services, and customer service—that touch customers, suppliers, and other business partners **(Figure 1.8)**.
+
+![figure8](figure1.8.png)
+
+E-commerce enables organizations and individuals to build new revenue streams, to create and enhance relationships with customers and business partners, and to improve operating efficiencies (see Table 1.6). E-commerce is critically important to many businesses.
+
+![table6](table1.6.png)
+
+Greyston Bakery is a $12 million company with 130 employees that makes brownies and cookies for wholesale and retail distribution. Sales to its largest client Ben & Jerry’s generates more than half its revenues. The business was started in the mid-1980s as a means to provide employment for the poor and homeless in Yonkers, New York. To meet this goal, Greyston follows an open-hiring policy, taking people directly off the street without background or reference checks. The highly successful bakery has expanded its operation to include sales from its Web site, further boosting its revenues and enabling it to hire more workers.Footnote
+
+**Mobile commerce (m-commerce)** is the buying and selling of goods and/or services using a mobile device, such as a tablet, smartphone, or other portable device. Mobile commerce can be used to support all forms of e-commerce—business-to-business (B2B), business-to-consumer (B2C), consumer-to-consumer (C2C), and government-to-citizen (G2C).
+
+**Electronic business (e-business)** goes beyond e-commerce by using information systems and networks to perform business-related tasks and functions, such as:
+
+- Gathering product demand forecasts directly from the distributors of your product in order to aggregate them and develop a master production schedule (rather than internally generating a forecast based on historical data, with no input from your distributors)
+
+- Sharing product data (e.g., design specifications and bills of material) electronically with suppliers and contract manufacturers as your products evolve through research and development, product design, prototyping, process design, and manufacturing
+
