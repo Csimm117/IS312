@@ -361,14 +361,14 @@ The **digital divide** is a term used to describe the gulf between those who do 
 The rapid growth of the Internet of Things is being fueled by the increasing availability of network access, the creation of more inexpensive smart devices with sensors and network capabilities built into them, the rapid growth in smartphone penetration, and the creativity and innovation of people who are able to see and capitalize on the almost unlimited opportunities.Footnote Clearly the growth of the IoT will present major issues around Internet access.
 
 ## Summary
-Principle:
+### Principle:
 The value of information is directly linked to how it helps decision makers achieve the organization’s goals.
 
 Data consists of raw facts; information is a collection of data organized and processed so that it has additional value beyond the value of the individual facts. The value of information created depends on the relationships defined among existing data. Turning data into information is a process performed to achieve a defined outcome. This process requires knowledge, which is the awareness and understanding of a set of information and the ways in which that information can be made useful to support a specific task or reach a decision.
 
 Information has many different characteristics. It can be accessible, accurate, complete, economical to produce, flexible, relevant, reliable, secure, simple to understand, timely, and verifiable. The importance of each of these characteristics varies depending on the situation and the kind of decision you are trying to make. The value of information is directly linked to how it helps people achieve their organizations’ goals.
 
-Principle:
+### Principle:
 Information systems are composed of fundamental components that must be carefully assembled and integrated to work well together.
 
 An information system (IS) is a set of interrelated components that collect, process, store, and disseminate data and information; an information system provides a feedback mechanism to monitor and control its operation to make sure it continues to meet its goals and objectives.
@@ -377,14 +377,14 @@ A computer-based information system (CBIS) is a single set of hardware, software
 
 An organization’s technology infrastructure includes all the hardware, software, databases, networks, people, and procedures that are configured to collect, manipulate, store, and process data into information.
 
-Principle:
+### Principle:
 Managers have an essential role to play in the successful implementation and use of information systems—that role changes depending on which type of IS system is being implemented.
 
 When considering the role of business managers in working with IS, it is useful to divide information systems into three types: personal IS, group IS, and enterprise IS.
 
 For each type of IS, certain key organizational complements must be in place to ensure successful implementation and use of the system. These complements include well-trained workers, better teamwork, redesigned processes, and new decision rights.
 
-Principle:
+### Principle:
 An organization’s infrastructure technology forms the foundation upon which its systems and applications are built.
 
 Hardware consists of computer equipment used to perform input, processing, storage, and output activities.
@@ -409,7 +409,7 @@ The Internet of Things (IoT) is a network of physical objects or things embedded
 
 The Internet of Everything (IoE) encompasses not only machine-to-machine but also people-to-people and people-to machine connections. It is estimated that the total number of devices connected to the Internet of Everything could exceed 50 billion by the end of 2020.
 
-Principle:
+### Principle:
 Organizations employ a variety of information systems to improve the way they conduct business and make fact-based decisions.
 
 E-commerce involves the exchange of money for goods and services over electronic networks, and it encompasses many of an organization’s outward-facing processes. Electronic business goes beyond e-commerce by using information systems and networks to perform business-related tasks and functions.
@@ -426,7 +426,7 @@ Data scientists are people who understand the business and the business analytic
 
 A knowledge management system is an information system that stores and retrieves knowledge, improves collaboration, locates knowledge sources, captures and uses knowledge, or in some other way enhances the knowledge management process.
 
-Principle:
+### Principle:
 Strategic planning and project management are keys to ensuring that the organization is working effectively on the right projects.
 
 Strategic planning is a means to improve alignment between the business and the information systems organization so that the IS organization and its resources are focused on efforts that support the key objectives that are important to the organization. This implies that IS and business managers have a shared vision of where the organization is headed and agree on its key strategies. This shared vision will guide the IS organization in hiring the right people with the correct skills and competencies, choosing the right technologies and vendors to explore and develop, installing the right systems, and focusing on those projects that are needed to move the organization closer to its vision and meeting its mission.
@@ -435,7 +435,7 @@ System acquisition is the process used to obtain information system resources ne
 
 The three basic alternatives for obtaining software to meet users’ needs are: buy off-the-shelf software, build a custom application, or choose a software service provider.
 
-Principle:
+### Principle:
 Information systems must be applied thoughtfully and carefully so that society, organizations, and individuals around the globe can reap their enormous benefits.
 
 Cybercriminals are motivated by the potential for monetary gain. The financial losses from cybercrime—including the cost of the hardware, software, and various countermeasures implemented to fight cybercrime—are estimated to be as high as $400 billion annually worldwide. Cyberterrorism is also an increasing concern for organizations and countries around the globe.
