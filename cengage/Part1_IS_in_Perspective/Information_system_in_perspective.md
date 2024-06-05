@@ -134,3 +134,82 @@ The digital universe (the collection of all data that exists) is doubling in siz
 To avoid being paralyzed by information overload, organizations and indeed society itself must find a way to deal with this oncoming tsunami of data. This challenge has several aspects, including how to choose which subset of data to keep, where and how to store the data, how to find the nuggets of useful data that are relevant to the decision making at hand, and how to derive real value from the relevant data.
 
 Ideally, the many challenges associated with big data will be conquered, and more data will lead to more accurate, insightful analyses and better decision making, which in turn, will result in deliberate actions and improved business results. For that to happen, society will need to address the many issues associated with big data, including concerns over invasions of privacy and the potential for overly intrusive monitoring of individuals by governments and organizations.
+
+### Networks and Cloud Computing 
+
+**Networks** connect computers and equipment in a room, building, campus, city, across the country, or around the world to enable electronic communication. Wireless transmission networks enable the use of mobile devices, such as smartphones and tablets. Telecommunication companies are now working on fifth-generation wireless communications that will enable transmission speeds 10 times faster than currently available on wireless networks—with greater coverage area and lower battery consumption—possibly as soon as the year 2020. Such technology will be needed to support the increased demand for faster transfer of data and video.
+
+The **Internet** is the world’s largest computer network, consisting of thousands of interconnected networks, all freely exchanging information. People use the Internet to research information, buy and sell products and services, email and instant message one another, participate in social networks (e.g., Facebook and LinkedIn), make travel arrangements, complete banking transactions, make investments, download music and videos, read books, and watch movies among other activities.
+
+With **public cloud computing**, a service provider organization owns and manages the hardware, software, networking, and storage devices, with cloud user organizations (called tenants) accessing slices of shared resources via the Internet. The service provider can deliver increasing amounts of computing, network, and storage capacity on demand and without requiring any capital investment on the part of the cloud users. Thus, public cloud computing is a great solution for organizations whose computing needs vary greatly depending on changes in demand. Amazon, Cisco Systems, IBM, Microsoft, Rackspace, Verizon Communications Inc., and VMWare are among the largest cloud computing service providers. These firms typically offer a monthly or annual subscription service model; they may also provide training, support, and data integration services.Footnote Online content provider Netflix uses the Amazon Web Services (AWS) cloud computing service to provide global delivery of some 10 billion hours of content per month. AWS enables Netflix users anywhere in the world to stream TV shows and movies to computers and mobile devices.
+
+The **World Wide Web (WWW)**, better known simply as “the Web,” is a network of links on the Internet to files containing text, graphics, video, and sound. Information about the documents and access to them are controlled and provided by tens of thousands of specialized computers called Web servers. The Web is one of many services available over the Internet, and it provides access to millions of files. New Internet technologies and increased Internet communications and collaboration are collectively called Web 2.0.
+
+The technology used to create the Internet is also being applied within organizations to create **intranets**, which enable communication, collaboration, search functions, and information sharing between the members of an organization’s team using a Web browser. For example, the Swiss Medical Group, based in Buenos Aires, Argentina, is a network of professionals, clinics, and laboratories that provide healthcare services and postgraduate medical education programs. It employs an intranet to provide its 9,000 employees with communication tools, company and industry news from various sources, announcements regarding new assignments for employees, tutorials, an online phone directory, videos, and document management services.
+
+An extranet is a network based on Web technologies that allows selected outsiders, such as business partners and customers, to access authorized resources of a company’s intranet. Many people use extranets every day without realizing it—to order products from their suppliers, track shipped goods, or access customer assistance from other companies. Federal Express (FedEx) was one of the first large companies to empower customers to serve themselves at their convenience through the use of a corporate extranet. A fundamental FedEx belief is that the information it provides customers about its services is more important than the services themselves. Customers can access the FedEx extranet to obtain a full range of shipping, billing, and tracking services. See **Figure 1.5**.
+
+![firgure.5](figure1.5.png)
+
+The **Internet of Things (IoT)** is a network of physical objects or “things” embedded with sensors, processors, software, and network connectivity capability to enable them to exchange data with the manufacturer of the device, device operators, and other connected devices. In theory, the IoT would enable us to connect almost any device with an on/off switch to a network—automobiles, appliances, components of an aircraft engine, heart monitor implants, packing labels, ingestible pills, wearable devices, and even highway sensors that can warn of traffic and hazardous road conditions. Each thing is uniquely identifiable and capable of interoperating with other “things” within the existing IoT infrastructure, often by connecting to a central hub. The IoT also includes cloud services, which enable the collection and analysis of data so people can process the data and take appropriate action via mobile apps.
+
+Until recently, the IoT has been most closely associated with machine-to-machine communications, such as that employed in the manufacturing, gas, oil, and power industries. For example, in oil and gas drilling operations, remote sensors can measure important parameters such as pressure, flow rates, temperatures, and fuel levels in on-site equipment. These variables are transmitted to a computer that automatically adjusts the operation of the equipment to optimize hydrocarbon production, improve operational safety, and protect the environment.
+
+The **Internet of Everything (IoE)** encompasses not only machine-to-machine but also people-to-people and people-to-machine connections. It is estimated that the total number of devices supported by the IoE could reach 50 billion by the end of 2020Footnote See **Figure 1.6**. This rapid growth is being fueled by the increasing availability of network access, the creation of more inexpensive smart devices with sensors and network capabilities built into them, the rapid growth in smartphone penetration, and the creativity and innovation of people who are able to see and capitalize on the almost unlimited opportunities.
+
+![figure6](figure1.6.png)
+
+General Electric (GE) is making a major strategic investment in the Internet of Things by offering its Predix Cloud service for industrial data and analytics. Predix will enable GE customers to connect sensors placed on industrial machinery such as jet engines, wind turbines, and locomotives to remote computing centers “in the cloud,” where the data from the sensors can be processed and analyzed to determine settings for optimal operating efficiencies and to schedule preventative maintenance to avoid unexpected failures.
+
+#### Critical Thinking Exercise
+NARCOMS Database to Aid MS Victims
+Multiple sclerosis (MS) causes a disruption in the transmission of nerve signals between the brain, spinal cord, and the rest of the body. Disrupted nerve signals cause the symptoms of MS, which can vary from one person to another, but often include difficulty walking, dizziness, fatigue, involuntary muscle spasms, pain, stiffness, tremors, vision problems, and weakness.
+
+The North American Registry for Care and Research in Multiple Sclerosis (NARCOMS) is a database created to capture the real-life experiences of people living with MS. The database contains information about each patient’s symptoms and their severity over time, medications taken, and courses of treatment. Physicians, scientists, and pharmaceutical companies can use this data to better understand MS by tracking patients’ disease course, comparing results of alternative courses of treatment, measuring the effectiveness of medications, and identifying useful indicators of the severity of the disease.Footnote
+
+Anyone with a diagnosis of MS can participate in NARCOMS and contribute to its research studies. Participants are asked to fill out an initial enrollment questionnaire and then complete surveys twice a year. Although roughly 400,000 people in the United States have been diagnosed with MS, fewer than 40,000 have elected to participate. More participants are needed in order for the database to be fully representative of people living with MS.Footnote
+
+#### Review Questions
+Identify the fundamental hardware components that are likely included in the NARCOMS system.
+
+Assume that a record for each participant in the NARCOMS database contains between 200 and 500 bytes of data. What is the maximum size of the database in gigabytes for the total 100,000 target number of participants? Would NARCOMS qualify as a big data project?
+
+#### Critical Thinking Questions
+You are a member of a highly successful advertising agency whose CEO suffers from MS. She has asked you to develop a proposal for the National Multiple Sclerosis Society to increase the number of participants in NARCRMS to 100,000 people within 12 months. There will be no charge to the society for this work, but the CEO has set a budget of $2 million. She has asked your full-time effort for the next year to lead this effort to success.
+
+1. Identify three strong reasons why some MS victims might elect to participate in NARCOMS while most do not.
+
+1. Outline a course of action that you think would successfully increase the number of NARCOMS participants by 60,000 over the next 12 months.
+
+### Business Information Systems
+>Information systems are used in all functional areas of business organizations, as summarized here:
+
+- Accounting and finance. Information systems are used to forecast revenues and expenses, determine the best sources and uses of funds, manage cash and other financial resources, analyze investments, and perform audits to make sure that the organization is financially sound and that all financial reports and documents are accurate.
+
+- Customer service. Information systems are used to capture data about customers and their interactions with the company to better understand their needs and issues and enable superior customer service.
+
+- Human resources. Information systems help human resource staff screen job applicants, administer performance tests to employees, monitor employee productivity, and generate required government reports.
+
+- Manufacturing. Information systems are used to process customer orders, develop production schedules, control inventory levels, and monitor product quality.
+
+- Research and development. Information systems help R&D staff design products, gather input from customers that leads to new ideas and improvements, and enable the sharing of information with a worldwide community of researchers.
+
+- Sales and marketing. Information systems help sales and marketing personnel develop new goods and services (product analysis), determine the best advertising and sales approaches (promotion analysis), and set optimal product prices to get the highest total revenues (price analysis).
+
+>Information systems are also used in nearly every industry, as the following examples show:
+
+- Agriculture. Farmers attach a yield monitor and a global positioning unit to their combines to determine how much grain should be harvested in each field. This data is entered in a system that produces a color-coded map that predicts the expected yield. From this, farmers can determine where they should add soil additives or fertilizer, for example, to increase the yield.
+
+- Finance. Banks use information systems to help make sound decisions regarding loans, invest wisely, and provide online services, such as bill payment and account transfers for account holders.
+
+- Health care. Healthcare organizations use information systems to diagnose illnesses, plan medical treatment, track patient records, and bill patients See Figure 1.7. Health insurance companies and health maintenance organizations (HMOs) use Web technology to access patients’ insurance eligibility information, pay medical claims, and analyze data to manage costs.
+
+![figure7](figure1.7.png)
+
+- Mining. Companies use global positioning systems to identify and evaluate promising areas for mineral exploration, model mine construction, and display geochemical and hydrological data. Mining companies also use information systems to gather the necessary data when applying for mining permits, to assess the environmental impacts of a proposed mine, and to design mine closure and reclamation plans.
+
+- Professional services. Accounting, tax preparation, and investment firms use information systems to improve the speed and quality of the services they provide to customers.
+
+- Retail. Companies use information systems to help market products and services, manage inventory levels, control the supply chain, and forecast demand, as well as take orders directly from customers over the Web.
+
+>This part will discuss “Electronic and Mobile Commerce,” “Enterprise Systems,” “Business Intelligence and Analytics,” and “Knowledge Management and Specialized Information Systems.”
