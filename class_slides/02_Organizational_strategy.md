@@ -99,5 +99,20 @@ Transform Raw Materials into Products &#8594 Storage and Distribution of Product
 - Customer Orientation Strategy: Concentrate on making customers happy.
 
 ### Competitive Advantage & Strategic IS Business – IT Alignment
+- Business – IT Alignment: IT functions directly support business objectives through the tight integration of IT functions with the organization’s strategy, mission, and goals.
+
+### Characteristics: Excellent Business-IT Alignment
+1. The organization views IT as an engine of innovation that continually transforms the business, often creating new revenue streams.
+2. The organization views its internal & external customers & their customer service functions as supremely important.
+3. The organization rotates business & IT professionals across departments and job functions.
+4. The organization provides overarching goals that are completely clear to IT and business employees.
+5. The organization ensures that IT employees understand how the company operates.
+6. The organization creates a vibrant and inclusive company culture.
+
+## SUMMARY:
+1. Identify various business pressures that affect organizations.
+2. Identify effective IT responses to different kinds of business pressures.
+3. Describe strategic IS and Porter’s five competitive forces.
+4. Describe the strategies that an organization typically adopts to counter Porter’s five competitive forces.
 
 
