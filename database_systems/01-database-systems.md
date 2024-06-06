@@ -84,9 +84,29 @@
 	- used to establish a realtionship between two tables
 - Sample College Database Demo
 
+### Data Warehouse
+- Data are collected from multiple data sources (e.g., ERP, websites, customer data, transactional IS , operational databases, etc.)
+> data sources
+
+- Data Intergration: The organization needs to ETL data from data sources into a data warehouse. 
+
+- Data organized by subjects (e.g., customer vendor, price level, and region)
+> data warehouse
+
+> A repository of historical data that are organized by subjects to support decision making.
 
 
+#### Data Market 
 
+- A low-cost, scaled-down version of a database that is designed for needs for strategic business units or an department.
+
+### The Data Warehouse Framework
+![data_table](Capture.png)
+
+## Summary:
+1. Discuss the common challenges with data management in the difital age: why?
+1. understand the database approaches that can address data management challenges: what?
+1. Discuss the data modeling of the relational database management systems (RDBMS): how?
 
 
 
