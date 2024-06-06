@@ -32,11 +32,11 @@
 ### Lets double check are work
 - Let’s take a look at what we did. From the App Launcher ( App Launcher icon), find and select Dreamhouse. In the Dreamhouse app, click the Contacts tab. Use the arrow The list view arrow icon. to view All Contacts and click a contact name. Under the Details tab, you can see your new field. Now it’s easier for Michelle and the other brokers to log and retrieve this important piece of client information
 
-![diagram](Arthursong.PNG)
+![diagram](Arthursong.png)
 
 
 # Your Turn ! 
-- Take your time, make sure to read carefully on what is being asked.![yourturn](handson.PNG) 
+- Take your time, make sure to read carefully on what is being asked.![yourturn](handson.png) 
 
 
 ## NEXT UNIT : Discover use cases for the platform
