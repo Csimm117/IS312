@@ -101,7 +101,7 @@
 - A low-cost, scaled-down version of a database that is designed for needs for strategic business units or an department.
 
 ### The Data Warehouse Framework
-![data_table](Capture.png)
+![data_table](Capture.PNG)
 
 ## Summary:
 1. Discuss the common challenges with data management in the difital age: why?
