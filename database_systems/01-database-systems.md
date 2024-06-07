@@ -104,30 +104,9 @@
 ![data_table](Capture.PNG)
 
 ## Summary:
-1. Discuss the common challenges with data management in the difital age: why?
+1. Discuss the common challenges with data management in the digital age: why?
+> 
 1. understand the database approaches that can address data management challenges: what?
+> 
 1. Discuss the data modeling of the relational database management systems (RDBMS): how?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> 
