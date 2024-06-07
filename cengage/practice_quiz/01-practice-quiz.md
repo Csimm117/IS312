@@ -1,3 +1,5 @@
+### Chapter one practice
+
 1. **Information**is a collection of raw facts organized and processed so that it has additional value beyond the value of the individual facts.
 1. Turning data into information is a **process**, or a set of logically related tasks performed to achieve a defined outcome.
 1. Two quality characteristics that are critical for data used in accounting for the management of company assets, such as cash, inventory, and equipment are **accuracy and completeness**
